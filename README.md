@@ -1,2 +1,2 @@
-# repositorio-curso
+# readme
 Repositorio para curso front end
